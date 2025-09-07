@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Margarita Loreto Sánchez  
+# 👋 ¡Hola! Soy Margarita   
 
 Soy **Ingeniero Comercial** en transición al área tecnológica, actualmente cursando **Técnico en Programación y Análisis de Sistemas**.  
 Me apasiona combinar la **gestión de negocios** con el **desarrollo de soluciones tecnológicas** que mejoren procesos y generen impacto.  
