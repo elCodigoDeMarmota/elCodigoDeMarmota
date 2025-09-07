@@ -23,7 +23,7 @@ Me apasiona combinar la **gestión de negocios** con el **desarrollo de solucion
 
 ## 📂 Proyectos destacados
 - 🔹 **Plataforma de gestión de pacientes** (C#, ASP.NET, SQL Server): desarrollo de un sistema para registro y priorización de pacientes, con autenticación, validaciones y reportes gráficos.  
-- 🔹 **API REST con FastAPI**: backend en Python con endpoints RESTful y frontend estático en HTML/CSS, diseñado como proyecto demostrativo.  
+- 🔹 **API REST con FastAPI**: backend en Python con endpoints RESTful y frontend estático en HTML/CSS, diseñado como proyecto demostrativo.  https://github.com/elCodigoDeMarmota/FastAPI_Demo 
 - 🔹 **Aplicación web para gestión de información médica**: solución con almacenamiento en la nube, autenticación mediante **Azure Active Directory**, integración de **APIs de Microsoft** y uso del ecosistema **Microsoft (Power Automate, OneDrive, Excel, etc.)** para automatizar procesos y garantizar un manejo seguro de datos.  
 
 ---
