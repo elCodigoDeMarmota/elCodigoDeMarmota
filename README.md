@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/elCodigoDeMarmota.png" width="220" alt="Foto de perfil de Margarita">
-</p>
 # 👋 ¡Hola! Soy Margarita   
 
 Soy Ingeniera Comercial y Técnico en Programación y Análisis de Sistemas, con experiencia en desarrollo de soluciones web, QA y análisis de procesos. Actualmente me encuentro fortaleciendo mi perfil tecnológico a través del programa AWS re/Start, con formación en fundamentos de Cloud, Linux, redes, seguridad y operación en AWS. Me interesa desarrollar soluciones que conecten las necesidades del negocio con la tecnología, combinando mi experiencia en gestión con conocimientos técnicos en desarrollo, testing y servicios cloud.
