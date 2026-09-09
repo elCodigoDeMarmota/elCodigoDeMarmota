@@ -1,30 +1,36 @@
 # 👋 ¡Hola! Soy Margarita   
 
-Soy **Ingeniero Comercial** en transición al área tecnológica, actualmente cursando **Técnico en Programación y Análisis de Sistemas**.  
-Me apasiona combinar la **gestión de negocios** con el **desarrollo de soluciones tecnológicas** que mejoren procesos y generen impacto.  
+Soy Ingeniera Comercial y Técnico en Programación y Análisis de Sistemas, con experiencia en desarrollo de soluciones web, QA y análisis de procesos. Actualmente me encuentro fortaleciendo mi perfil tecnológico a través del programa AWS re/Start, con formación en fundamentos de Cloud, Linux, redes, seguridad y operación en AWS. Me interesa desarrollar soluciones que conecten las necesidades del negocio con la tecnología, combinando mi experiencia en gestión con conocimientos técnicos en desarrollo, testing y servicios cloud.
 
 ---
 
 ## 🚀 Sobre mí
 - 🎯 Experiencia en **análisis de datos** y **monitoreo de indicadores** en el sector salud.  
-- 💻 Desarrollo de **plataformas web y de escritorio** (C#, SQL Server, ASP.NET, Python, FastAPI).  
+- 💻 Técnico en **Programación y Análisis de Sistemas**, con experiencia en desarrollo web y QA.  
 - 📊 Certificada como **Product Owner**, con enfoque en metodologías ágiles.  
-- 🌱 Actualmente fortaleciendo mis habilidades en **programación y análisis de sistemas**.  
+- ☁️ Actualmente cursando **AWS re/Start**, fortaleciendo conocimientos en Cloud, Linux, redes, seguridad y servicios AWS.
 
 ---
 
 ## 🛠️ Tecnologías que manejo
-- **Lenguajes:** Python, C#, SQL, JavaScript, Kotlin en formación  
-- **Frameworks:** FastAPI, ASP.NET.  
-- **Bases de datos:** SQL Server.  
-- **Herramientas:** Power BI, Excel avanzado, Git/GitHub, Microsoft Azure, Power Automate.  
+- **Cloud:** AWS, fundamentos de arquitectura cloud, IAM, VPC, EC2, S3, CloudWatch, Linux.
+- **QA y Testing:** Java, Selenium WebDriver, pruebas funcionales, regresión, UAT, Postman, Jira.
+- **Desarrollo:** C#, Python, JavaScript, ASP.NET Core, FastAPI.
+- **Datos:** SQL Server, Power BI, Excel avanzado.
+- **DevOps y colaboración:** Git, GitHub, GitHub Actions, CI/CD.
+- **Microsoft Cloud:** Microsoft Graph, Entra ID, Microsoft Lists.
 
 ---
 
 ## 📂 Proyectos destacados
-- 🔹 **Plataforma de gestión de pacientes** (C#, ASP.NET, SQL Server): desarrollo de un sistema para registro y priorización de pacientes, con autenticación, validaciones y reportes gráficos.  
-- 🔹 **API REST con FastAPI**: backend en Python con endpoints RESTful y frontend estático en HTML/CSS, diseñado como proyecto demostrativo.  https://github.com/elCodigoDeMarmota/FastAPI_Demo 
-- 🔹 **Aplicación web para gestión de información médica**: solución con almacenamiento en la nube, autenticación mediante **Azure Active Directory**, integración de **APIs de Microsoft** y uso del ecosistema **Microsoft (Power Automate, OneDrive, Excel, etc.)** para automatizar procesos y garantizar un manejo seguro de datos.  
+
+- 🔹 **Plataforma Web de Gestión Clínica** — C#, ASP.NET Core, Microsoft Graph, Entra ID, Microsoft Lists.  
+  Proyecto profesional desarrollado para una clienta real, con gestión de pacientes y agenda, generación automática de documentos PDF, seguimiento de exámenes, tareas pre/postoperatorias e integración con servicios cloud de Microsoft.  
+  🚧 Repositorio en construcción.
+
+- 🔹 **API REST con FastAPI** — Python, FastAPI, HTML/CSS.  
+  Backend con endpoints REST y frontend estático desarrollado como proyecto demostrativo.  
+  https://github.com/elCodigoDeMarmota/FastAPI_Demo
 
 ---
 
